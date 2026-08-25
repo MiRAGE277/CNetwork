@@ -1,0 +1,8 @@
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Automatically generated files by compilers
+*.log
+*.tmp
