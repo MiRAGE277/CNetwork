@@ -1,4 +1,5 @@
 # CNetwork v1.0.0 🌐 
+![CNetwork Preview](preview.png)
 
 CNetwork (Control Network) is a powerful, standalone network intelligence dashboard and real-time diagnostic tool built natively for the Windows console. Featuring a high-performance matrix-green Text User Interface (TUI) that refreshes every second, it automates wireless profile analysis and maps critical networking parameters into a single, clean workspace.
 
